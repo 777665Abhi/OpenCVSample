@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">OpenCVSample</string>
+    <string-array name="options">
+        <item>Opening</item>
+        <item>Marker</item>
+        <item>Unknown</item>
+        <item>Closing</item>
+    </string-array>
 </resources>
